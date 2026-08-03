@@ -10,7 +10,7 @@ paperurl: '/files/forward-guidance-paper.pdf'
 
 **Status:** Joint with Daeha Cho (Hanyang University). Under review at *The Korean Economic Review* (SSCI).
 
-**Abstract:** This paper resolves the forward guidance puzzle by incorporating quasi-hyperbolic discounting into a New Keynesian model. We show that quasi-hyperbolic preferences dampen the excessive power of forward guidance implied by standard exponential-discounting models. We find a neutral effect on the optimal duration of policy at the zero lower bound (ZLB), as the effects of recession severity and policy effectiveness offset one another. The analysis uses non-linear DSGE methods (MATLAB/Dynare), analytical determinacy conditions, and optimal targeting rules.
+**Abstract:** Standard New Keynesian models predict that the effects of forward guidance on current economic activity grow with the horizon, which is a puzzling feature. We demonstrate that incorporating a quasi-hyperbolic discount factor in preferences significantly reduces the response of current inflation to forward guidance at all horizons. Quasi-hyperbolic discounting complements existing solutions introduced to dampen the response of output gaps, thereby further alleviating the \textit{forward guidance puzzle}. However, we also find that incorporating quasi-hyperbolic discounting does not alter the optimal duration of zero interest rates at the zero lower bound, as it reduces the depth of recessions.
 
 [Download paper here](/files/forward-guidance-paper.pdf)
 
