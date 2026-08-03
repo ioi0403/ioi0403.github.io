@@ -11,13 +11,13 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "HYEONGJIN CHOI"
 title_separator          : "-"
+subtitle                 : "Ph.D. Applicant in Economics"
 name                     : &name "Hyeongjin Choi"
-description              : &description "Ph.D. Applicant in Economics"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of Hyeongjin Choi, Ph.D. student in Economics and Finance at Hanyang University."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ioi0403.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
+repository               : "ioi0403/ioi0403.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Hyeongjin Choi"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Rep. of Korea"
+  bio              : "Ph.D. Student in Economics and Finance, Hanyang University. Macroeconomics, Monetary Economics, Applied Macroeconometrics."
+  location         : "Seoul, South Korea"
   employer         : "Hanyang University"
-  uri              : # URL 
+  uri              : "https://ioi0403.github.io" 
   email            : "Choi.H.J040377@gmail.com" 
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ioi0403"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "linkedin.com/in/hyeongjin-choi-1674463b9/"
+  linkedin         : "hyeongjin-choi-1674463b9"
 
   mastodon         : # URL
   medium           : # URL
