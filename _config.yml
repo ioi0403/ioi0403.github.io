@@ -23,7 +23,7 @@ repository               : "ioi0403/ioi0403.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Hyeongjin Choi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Economics and Finance, Hanyang University. Macroeconomics, Monetary Economics, Applied Macroeconometrics."
