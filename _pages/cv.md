@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in Economics and Finance, Hanyang University, 2024 – Present
 * M.A. in Economics and Finance, Hanyang University, 2024
-  * GPA: 4.38 / 4.5 | Thesis Advisor: Prof. Daeha Cho
+  * GPA: 4.38 / 4.5 / Thesis Advisor: Prof. Daeha Cho
   * Thesis: *Power of Forward Guidance When Preferences are Quasi-hyperbolic*
   * Comprehensive Examination: Passed Macro, Micro, and Math Econ in the 2nd semester of M.A.
   * Accelerated Degree: Completed M.A. in 3 semesters via Hanyang Accelerated Program
