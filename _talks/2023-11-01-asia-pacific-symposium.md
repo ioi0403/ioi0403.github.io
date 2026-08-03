@@ -4,7 +4,7 @@ collection: talks
 type: "Special Session for Ph.D. Students"
 permalink: /talks/2023-11-01-asia-pacific-symposium
 venue: "Asia-Pacific Symposium on Economics and Finance"
-date: 2023-11-01
+date: 2023-11-15
 location: "South Korea"
 ---
 
