@@ -1,7 +1,7 @@
 ---
 title: "When Volatility Pays: U-Shaped Exchange-Rate Exposure and the Option Value of Exporting in Korean Manufacturing"
 collection: publications
-category: manuscripts
+category: workingpapers
 permalink: /publication/2026-fx-volatility-korean-manufacturing
 excerpt: 'This paper identifies a U-shaped effect of exchange-rate volatility on return on invested capital (ROIC) among Korean exporters, driven by the option value of exporting.'
 date: 2026-01-01
