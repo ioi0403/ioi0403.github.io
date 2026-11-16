@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Economics and Finance at Hanyang University, working under the supervision of Prof. Daeha Cho. I am currently applying to Ph.D. programs in Economics in the United States, with research interests in Macroeconomics, Monetary Economics, and Applied Macroeconometrics.
+I am a Ph.D. student in Economics and Finance at Hanyang University, working under the supervision of Prof. Daeha Cho. I am currently applying to Ph.D. programs in Economics in the United States and Canada, with research interests in Macroeconomics, Monetary Economics, and International Economics.
 
 My research combines structural macroeconomic modeling with large-scale administrative microdata. My primary working paper, which serves as my Ph.D. application writing sample, uses an administrative firm-level panel of over 971,000 firm-years to study how exchange-rate volatility affects the return on invested capital of Korean exporters, documenting a U-shaped relationship driven by the option value of exporting. In a second project, joint with Prof. Daeha Cho, I study how quasi-hyperbolic discounting affects the transmission of forward guidance in a New Keynesian model.
 
