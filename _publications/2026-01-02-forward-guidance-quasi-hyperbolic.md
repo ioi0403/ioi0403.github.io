@@ -4,10 +4,9 @@ collection: publications
 category: workingpapers
 permalink: /publication/2026-forward-guidance-quasi-hyperbolic
 status: underreview
-venue: 'The Korean Economic Review (SSCI)'
+venue: "Under review, The Korean Economic Review (SSCI)"
 excerpt: 'This paper resolves the forward guidance puzzle by introducing quasi-hyperbolic discounting into a New Keynesian model.'
 date: 2026-01-02
-paperurl: '/files/forward-guidance-paper.pdf'
 ---
 
 **Status:** Joint with Daeha Cho (Hanyang University). Under review at *The Korean Economic Review* (SSCI).
