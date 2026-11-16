@@ -93,4 +93,4 @@ Professional Development and Service
 Skills
 ======
 * Programming and Software: MATLAB, Dynare (DSGE), Stata, R, LaTeX
-* Certification: Certified Investment Manager, Korea Financial Investment Association (Jun 2021) ([License](/files/Certified_Investment_Manager.jpeg))
+* Certification: Certified Investment Manager, Korea Financial Investment Association (Jun 2021) ([License](/files/Certified_Investment_Manager_remove.pdf))
