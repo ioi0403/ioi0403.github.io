@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download a PDF version of my CV here.](/files/CV_Hyeongjin_Choi.pdf)
+[Download a PDF version of my CV here.](/files/CV_Hyeongjin_Choi_online.pdf)
 
 Education
 ======
