@@ -16,11 +16,11 @@ Education
 * Ph.D. Program in Economics and Finance, Hanyang University, Mar 2024 – Present
   * Leave: Spring 2025 – Spring 2026 (Researcher, GRI, Feb – Jul 2025; health recovery and family caregiving, Aug – Dec 2025); resumed Fall 2026
 * M.A. in Economics and Finance, Hanyang University, Sep 2022 – Feb 2024
-  * GPA: 4.38 / 4.5 (98.8 / 100) / Thesis Advisor: Prof. Daeha Cho
+  * Thesis Advisor: Prof. Daeha Cho
   * Thesis: *Power of Forward Guidance when Preferences are Quasi-Hyperbolic* (Best Dissertation Award)
   * Passed comprehensive examinations in Macroeconomics, Microeconomics, and Mathematical Economics in the second semester (Spring 2023); completed the degree in three semesters through the Integrated Bachelor's–Master's Program
 * B.A. in Economics and Finance, Hanyang University, Mar 2017 – Aug 2022
-  * GPA: 3.78 / 4.5 (92.8 / 100), Cum Laude
+  * Cum Laude
   * Military service, Republic of Korea Army: Nov 2018 – Jun 2020
   * Completed the degree in seven semesters through the Integrated Bachelor's–Master's Program
 
@@ -87,26 +87,11 @@ Honors, Awards, and Fellowships
 
 Professional Development and Service
 ======
-* Tools for Macroeconomists: Advanced & Essentials (Pontus Rendahl and Petr Sedláček), Summer 2024
+* Tools for Macroeconomists: Advanced & Essentials (Pontus Rendahl and Petr Sedláček), Summer 2024 ([Certificate1](/files/Certificate_of_toolsformacro_Hyeongjin_Choi.pdf), [Certificate2](/files/Certificate_of_toolsformacro_adv_Hyeongjin_Choi.pdf))
   * HA/DSGE modeling, dynamic programming, and non-linear solution methods
 * Representative, RC Representatives' Council, Hanyang University Graduate School, Spring 2023 – Fall 2023
-
-Coursework
-======
-Mathematics (titles and grades as on transcripts; S/F/W = spring, fall, winter term)
-* Calculus: Calculus I (B0, W21); Introductory Mathematics for Economists\* (B+, S17); Mathematical Economics\* (multivariable calculus, differential equations; B+, F21)
-* Linear algebra: Linear Algebra I (proof-based; B+, S22); Linear Algebra II† (proof-based; Pass, F24)
-* Real analysis and topology: Mathematical Economics, graduate\* (proofs, metric-space topology, implicit function theorem; A+, F22); Analysis I (Credit Bank, taught at Korea University; 89/100, S23); Advanced Calculus 2 (Real Analysis II)† (Pass, F24)
-* Probability and statistics: Economic Statistics, graduate\* (probability, large-sample theory, ML/GMM; A+, S22)
-* \* Department of Economics and Finance; all other mathematics courses were taught by mathematics departments.
-* † Pass/Fail only under the university's doctoral prerequisite-course policy. Hanyang scale: A+ = 4.5, A0 = 4.0, B+ = 3.5, B0 = 3.0.
-
-Graduate Economics
-* Core Theory: Macroeconomics (A+), Microeconomics (A+)
-* Econometrics & Empirical Methods: Time Series Analysis with Big Data (A+), Applied Econometrics (A0), Panel Data Analysis (A0)
-* Field Courses: Business Cycle Theory and Applications (A+), International Finance (A+)
 
 Skills
 ======
 * Programming and Software: MATLAB, Dynare (DSGE), Stata, R, LaTeX
-* Certification: Certified Investment Manager, Korea Financial Investment Association (Jun 2021)
+* Certification: Certified Investment Manager, Korea Financial Investment Association (Jun 2021) ([License](/files/Certified_Investment_Manager.jpeg))
