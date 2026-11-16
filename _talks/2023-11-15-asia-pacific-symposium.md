@@ -1,11 +1,13 @@
 ---
-title: "Power of Forward Guidance under Quasi-Hyperbolic Preferences"
+title: "Power of Forward Guidance when Preferences are Quasi-Hyperbolic"
 collection: talks
-type: "Special Session for Ph.D. Students"
-permalink: /talks/2023-11-01-asia-pacific-symposium
-venue: "Asia-Pacific Symposium on Economics and Finance"
+type: "Talk"
+permalink: /talks/2023-11-15-asia-pacific-symposium
+venue: "Symposium on Economics and Finance in the Asia-Pacific (SEFA), Nanyang Technological University"
 date: 2023-11-15
-location: "South Korea"
+location: "Online"
 ---
 
-Presented "Power of Forward Guidance under Quasi-Hyperbolic Preferences" at the Special Session for Ph.D. Students. Invited as the only M.A. student presenter in the Ph.D. special session.
+Presented my M.A. thesis, *Power of Forward Guidance when Preferences are Quasi-Hyperbolic*, in the Special Session for Ph.D. Students at the Symposium on Economics and Finance in the Asia-Pacific (SEFA), hosted by Nanyang Technological University (online). I was invited as the only M.A. student in the session.
+
+[Conference program (PDF)](/files/Program_of_SEFA_2023.pdf)
