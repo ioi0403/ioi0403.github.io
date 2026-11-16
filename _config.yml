@@ -26,16 +26,13 @@ author:
   avatar           : "image.png"
   name             : "Hyeongjin Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in Economics and Finance, Hanyang University. Macroeconomics, Monetary Economics, Applied Macroeconometrics."
-  location         : "Seoul, South Korea"
-  employer         : "Hanyang University"
-  uri              : "https://ioi0403.github.io" 
+  bio              : "Ph.D. Student in Economics and Finance, Hanyang University. Macroeconomics, Monetary Economics, International Economics."  location         : "Seoul, South Korea"
   email            : "Choi.H.J040377@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=DTXfGnwAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?hl=ko&user=DTXfGnwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL "https://orcid.org/yourorcidurl"
@@ -51,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ioi0403"
+  github           : # "ioi0403"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "hyeongjin-choi-1674463b9"
+  linkedin         : # "hyeongjin-choi-1674463b9"
 
   mastodon         : # URL
   medium           : # URL
