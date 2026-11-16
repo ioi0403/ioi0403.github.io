@@ -20,7 +20,6 @@ Education
   * Thesis: *Power of Forward Guidance when Preferences are Quasi-Hyperbolic* (Best Dissertation Award)
   * Passed comprehensive examinations in Macroeconomics, Microeconomics, and Mathematical Economics in the second semester (Spring 2023); completed the degree in three semesters through the Integrated Bachelor's–Master's Program
 * B.A. in Economics and Finance, Hanyang University, Mar 2017 – Aug 2022
-  * Cum Laude
   * Military service, Republic of Korea Army: Nov 2018 – Jun 2020
   * Completed the degree in seven semesters through the Integrated Bachelor's–Master's Program
 
