@@ -1,12 +1,12 @@
 ---
-title: "When Volatility Pays: U-Shaped Exchange-Rate Exposure and the Option Value of Exporting in Korean Manufacturing"
+title: "When Volatility Pays: Nonlinear Effect of Exchange Rate Volatility on Firm Profitability"
 collection: publications
 category: workingpapers
 permalink: /publication/2026-fx-volatility-korean-manufacturing
 venue: 'Working Paper'
 excerpt: 'This paper identifies a U-shaped effect of exchange-rate volatility on return on invested capital (ROIC) among Korean exporters, driven by the option value of exporting.'
 date: 2026-01-01
-paperurl: '/files/fx-volatility-paper.pdf'
+paperurl: '/files/Writing_Sample_When_Volatility_Pays_Hyeongjin_Choi.pdf'
 ---
 
 **Status:** Solo-authored working paper (U.S. Ph.D. writing sample)
